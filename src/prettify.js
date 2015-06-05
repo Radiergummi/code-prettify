@@ -1469,7 +1469,7 @@ var prettyPrint;
     var prettyPrintingJob;
 
     var langExtensionRe = /\blang(?:uage)?-([\w.]+)(?!\S)/;
-    var prettyPrintRe = /\bprettyprint\b/;
+    var prettyPrintRe = /\.*/;
     var prettyPrintedRe = /\bprettyprinted\b/;
     var preformattedTagNameRe = /pre|xmp/i;
     var codeRe = /^code$/i;
