@@ -1,3 +1,6 @@
+# Modification: Applies prettyprinting to all `code`, `pre` and `xmp` elements.
+You maybe want to go for Googles original library, I found it annoying to have to work with html in my markdown CMS.
+
 # Javascript code prettifier
 
 An embeddable script that makes source-code snippets in HTML prettier.
